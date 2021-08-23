@@ -1,0 +1,17 @@
+{
+  "name": "@nomikos/prettierrc",
+  "version": "1.0.0",
+  "description": "Prettier global.",
+  "author": {
+    "name": "Igor Parra Bastias",
+    "email": "usuario3@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NomikOS/prettierrc"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/NomikOS"
+  },
+  "license": "UNLICENSED"
+}
